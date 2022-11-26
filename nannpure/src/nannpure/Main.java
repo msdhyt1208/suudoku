@@ -62,10 +62,10 @@ public class Main {
 
 		}
 		
-		System.out.println("I—¹");
+		System.out.println("ÂIâ€”Â¹");
 		d.display();
-		if(r.allRule() && !r.allZerochack())System.out.println(count+"‰ñ‚Å¬Œ÷");
-		else if(r.allRule())			System.out.println("Ÿ‚Ö");
+		if(r.allRule() && !r.allZerochack())System.out.println(count+"å›ã§çµ‚äº†");
+		else if(r.allRule());
 	}
 
 
