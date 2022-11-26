@@ -62,7 +62,6 @@ public class Main {
 
 		}
 		
-		System.out.println("I—¹");
 		d.display();
 		if(r.allRule() && !r.allZerochack())System.out.println(count+"回で終了");
 		else if(r.allRule());
